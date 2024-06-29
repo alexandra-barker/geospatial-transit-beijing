@@ -3016,7 +3016,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(49, 36, 80, 0.9);
+				background: rgba(232, 123, 123, 0.9);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3230,7 +3230,7 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color:  #273746;
+			background-color:  #231515;
 		}
 
 		.wrapper.style1 {
@@ -3250,7 +3250,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #616a6b;
+			background-color: #7a7979;
 		}
 
 		.wrapper.style3-alt {
